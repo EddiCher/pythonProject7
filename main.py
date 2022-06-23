@@ -23,3 +23,6 @@ check_guess(guess2, "Cheetah")
 guess3 = input("Which is the larget animal? ")
 check_guess(guess3, "Blue Whale")
 print("Your Score is "+ str(score))
+
+
+# Cite: "https://thecleverprogrammer.com/"
